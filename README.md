@@ -6,5 +6,5 @@ This repository contains various files related to my projects.
 
 ### Contents
 
-This repo crated by OguzhanYildiz for Vladislav Rumiamtsev
+This repo crated by OguzhanYildiz for Vladislav Rumiantsev
 
